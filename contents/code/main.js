@@ -34,10 +34,10 @@ registerShortcut("MoveWindowToRight1in3", "OneThirdWindows: Move Window to Right
   moveThird(workspace, 2, 1)
 });
 
-registerShortcut("MoveWindowToLeft2in3", "OneThirdWindows: Move Window to Left 2/3", "Meta+Alt+J", function () {
+registerShortcut("MoveWindowToLeft2in3", "OneThirdWindows: Move Window to Left 2/3", "Meta+Shift+I", function () {
   moveThird(workspace, 0, 2)
 });
 
-registerShortcut("MoveWindowToRight2in3", "OneThirdWindows: Move Window to Right 2/3", "Meta+Alt+L", function () {
+registerShortcut("MoveWindowToRight2in3", "OneThirdWindows: Move Window to Right 2/3", "Meta+Shift+O", function () {
   moveThird(workspace, 1, 2)
 });

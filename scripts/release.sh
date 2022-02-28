@@ -1,3 +1,3 @@
 #!/bin/sh
 
-zip -r movewindowtocenter.kwinscript contents/ LICENSE metadata.desktop
+zip -r OneThirdWindows.kwinscript contents/ LICENSE metadata.desktop
