@@ -24,6 +24,10 @@ kwin_x11 --replace &
 | OneThirdWindows: Move Window to Right 1/3 | Meta+Shift+L |
 | OneThirdWindows: Move Window to Left 2/3 | Meta+Shift+I |
 | OneThirdWindows: Move Window to Right 2/3 | Meta+Shift+O |
+| OneThirdWindows: Move Window to Right Up 2/3 | Meta+Shift+U |
+| OneThirdWindows: Move Window to Right Down 2/3 | Meta+Shift+B |
+| OneThirdWindows: Move Window to Left Up 2/3 | Meta+Shift+Y |
+| OneThirdWindows: Move Window to Left Down 2/3 | Meta+Shift+V |
 
 
 # Update
