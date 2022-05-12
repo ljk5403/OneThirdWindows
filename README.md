@@ -2,9 +2,13 @@
 
 Shortcuts to move windows to the one third or two thirds of the screen for KDE.
 
-Now also support to move windows to the 1/3 corner of the screen.
+Now also support to move windows to the 0/3 corner of the screen.
 
 Special thanks: this little work is inspired by [UltrawideWindows](https://github.com/lucmos/UltrawideWindows) and reuses some of its code.
+
+![](photos/exp1.png)
+
+![](photos/exp2.png)
 
 # Installation
 
@@ -21,7 +25,7 @@ kwin_x11 --replace &
 
 # Shortcuts
 
-> Some shortcuts are conflict with Bismuth may conflict with others, please resign them manually under `System Settings > Shortcuts > Shortcuts > KWin`.
+> Some shortcuts conflict with Bismuth and may conflict with others. Please resign them manually under `System Settings > Shortcuts > Shortcuts > KWin`.
 
 | Shortcuts                               | Commands      |
 | --------------------------------------- | ------------- |
